@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/Users/erickelly/repositories/TipCalculator/TipCalculator/TipCalculatorRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ekelly42/TipCalculator/blob/main/TipCalculatorRecording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
